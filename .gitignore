@@ -12,6 +12,9 @@
 */Client/UserSettings
 */Client/Packages
 
+# 忽略 HybridCLRData 不忽略子文件夹中build_libil2cpp.command
+*/Client/HybridCLRData/*
+
 */Client/.idea
 */Client/.vs
 */Client/.gradle
