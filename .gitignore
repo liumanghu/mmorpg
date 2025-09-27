@@ -15,9 +15,6 @@
 */Client/.idea
 */Client/.vs
 */Client/.gradle
-*/Server/GameServer/.idea
-*/Server/GameServer/.vs
-*/Server/GameServer/.gradle
 
 *.sln
 *.csproj
