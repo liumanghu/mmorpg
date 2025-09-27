@@ -1,0 +1,16 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "药水商店",
+    "Icon": "",
+    "Description": "什么药水商店",
+    "Status": 1
+  },
+  "2": {
+    "Id": 2,
+    "Name": "杂货商店",
+    "Icon": "",
+    "Description": "没有杂货商店",
+    "Status": 1
+  }
+}

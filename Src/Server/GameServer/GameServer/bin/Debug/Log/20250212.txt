@@ -1,0 +1,129 @@
+
+2025-02-12 19:50:54,235 [1] [INFO ] [GameServer] ：Game Server Init
+2025-02-12 19:50:55,666 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2025-02-12 19:50:56,041 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:1 ：布林镇
+2025-02-12 19:50:56,043 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:2 ：落日森林北
+2025-02-12 19:50:56,044 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:3 ：落日森林南
+2025-02-12 19:50:56,045 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:4 ：落日空间
+2025-02-12 19:50:56,045 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:1 ：布林镇
+2025-02-12 19:50:56,046 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:2 ：落日森林北
+2025-02-12 19:50:56,047 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:3 ：落日森林南
+2025-02-12 19:50:56,047 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:4 ：落日空间
+2025-02-12 19:50:56,048 [1] [WARN ] [GameServer] ：Starting Listener...
+2025-02-12 19:50:56,057 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 19:50:56,058 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 19:50:56,059 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 19:50:56,060 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 19:50:57,063 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 19:50:58,072 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 19:50:59,069 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 19:51:00,062 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 19:51:00,092 [1] [WARN ] [GameServer] ：NetService Started
+2025-02-12 22:21:49,339 [1] [INFO ] [GameServer] ：Game Server Init
+2025-02-12 22:21:49,445 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2025-02-12 22:21:49,686 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:1 ：布林镇
+2025-02-12 22:21:49,689 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:2 ：落日森林北
+2025-02-12 22:21:49,689 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:3 ：落日森林南
+2025-02-12 22:21:49,690 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:4 ：落日空间
+2025-02-12 22:21:49,690 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:1 ：布林镇
+2025-02-12 22:21:49,691 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:2 ：落日森林北
+2025-02-12 22:21:49,691 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:3 ：落日森林南
+2025-02-12 22:21:49,692 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:4 ：落日空间
+2025-02-12 22:21:49,693 [1] [WARN ] [GameServer] ：Starting Listener...
+2025-02-12 22:21:49,698 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:21:49,699 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:21:49,700 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:21:49,700 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:21:50,706 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:21:51,711 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:21:52,709 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:21:53,706 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:21:53,737 [1] [WARN ] [GameServer] ：NetService Started
+2025-02-12 22:24:40,833 [1] [INFO ] [GameServer] ：Game Server Init
+2025-02-12 22:24:41,661 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2025-02-12 22:24:42,254 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:1 ：布林镇
+2025-02-12 22:24:42,258 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:2 ：落日森林北
+2025-02-12 22:24:42,258 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:3 ：落日森林南
+2025-02-12 22:24:42,258 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:4 ：落日空间
+2025-02-12 22:24:42,258 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:1 ：布林镇
+2025-02-12 22:24:42,258 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:2 ：落日森林北
+2025-02-12 22:24:42,258 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:3 ：落日森林南
+2025-02-12 22:24:42,258 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:4 ：落日空间
+2025-02-12 22:24:42,259 [1] [WARN ] [GameServer] ：Starting Listener...
+2025-02-12 22:24:42,319 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:24:42,353 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:24:42,353 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:24:42,353 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:24:44,806 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:24:46,313 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:24:47,308 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:24:48,303 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 22:24:48,376 [1] [WARN ] [GameServer] ：NetService Started
+2025-02-12 23:01:34,691 [1] [INFO ] [GameServer] ：Game Server Init
+2025-02-12 23:01:34,966 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2025-02-12 23:01:35,179 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:1 ：布林镇
+2025-02-12 23:01:35,182 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:2 ：落日森林北
+2025-02-12 23:01:35,182 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:3 ：落日森林南
+2025-02-12 23:01:35,182 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:4 ：落日空间
+2025-02-12 23:01:35,182 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:1 ：布林镇
+2025-02-12 23:01:35,183 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:2 ：落日森林北
+2025-02-12 23:01:35,183 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:3 ：落日森林南
+2025-02-12 23:01:35,183 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:4 ：落日空间
+2025-02-12 23:01:35,184 [1] [WARN ] [GameServer] ：Starting Listener...
+2025-02-12 23:01:35,250 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:01:35,250 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:01:35,251 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:01:35,251 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:01:36,205 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:01:37,190 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:01:37,830 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:01:38,705 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:01:38,718 [1] [WARN ] [GameServer] ：NetService Started
+2025-02-12 23:01:59,646 [3] [WARN ] [GameServer] ：Client[192.168.31.88:52834]] Connected
+2025-02-12 23:03:11,940 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2025-02-12 23:07:23,091 [13] [WARN ] [GameServer] ：Client[192.168.31.88:52880]] Connected
+2025-02-12 23:07:53,146 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2025-02-12 23:08:43,956 [1] [INFO ] [GameServer] ：Game Server Init
+2025-02-12 23:08:44,184 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2025-02-12 23:08:44,388 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:1 ：布林镇
+2025-02-12 23:08:44,391 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:2 ：落日森林北
+2025-02-12 23:08:44,391 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:3 ：落日森林南
+2025-02-12 23:08:44,392 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:4 ：落日空间
+2025-02-12 23:08:44,392 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:1 ：布林镇
+2025-02-12 23:08:44,392 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:2 ：落日森林北
+2025-02-12 23:08:44,392 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:3 ：落日森林南
+2025-02-12 23:08:44,392 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:4 ：落日空间
+2025-02-12 23:08:44,394 [1] [WARN ] [GameServer] ：Starting Listener...
+2025-02-12 23:08:44,413 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:08:44,414 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:08:44,414 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:08:44,415 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:08:45,412 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:08:46,404 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:08:47,429 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:08:48,412 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:08:48,489 [1] [WARN ] [GameServer] ：NetService Started
+2025-02-12 23:09:17,829 [3] [WARN ] [GameServer] ：Client[192.168.31.88:52905]] Connected
+2025-02-12 23:09:58,027 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2025-02-12 23:12:09,100 [1] [INFO ] [GameServer] ：Game Server Init
+2025-02-12 23:12:09,236 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2025-02-12 23:12:09,479 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:1 ：布林镇
+2025-02-12 23:12:09,482 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:2 ：落日森林北
+2025-02-12 23:12:09,482 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:3 ：落日森林南
+2025-02-12 23:12:09,482 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:4 ：落日空间
+2025-02-12 23:12:09,482 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:1 ：布林镇
+2025-02-12 23:12:09,482 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:2 ：落日森林北
+2025-02-12 23:12:09,483 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:3 ：落日森林南
+2025-02-12 23:12:09,483 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:4 ：落日空间
+2025-02-12 23:12:09,484 [1] [WARN ] [GameServer] ：Starting Listener...
+2025-02-12 23:12:09,490 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:12:09,490 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:12:09,490 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:12:09,490 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:12:10,490 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:12:11,487 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:12:11,999 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:12:12,996 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-12 23:12:13,091 [1] [WARN ] [GameServer] ：NetService Started
+2025-02-12 23:13:18,018 [3] [WARN ] [GameServer] ：Client[192.168.31.88:52943]] Connected
+2025-02-12 23:14:36,913 [3] [WARN ] [GameServer] ：Client[] Disconnected

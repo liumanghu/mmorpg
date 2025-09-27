@@ -1,0 +1,12 @@
+{
+  "#TablePath" : "excel数据表所在位置",
+  "TablePath" : "../Excels",
+  "#ByteExportPath" : "导出的bytes文件所在位置",
+  "ByteExportPath" : "../../Client/Assets/DataTable",
+  "#JsonExportPath" : "导出的json文件所在位置",
+  "JsonExportPath" : "../../Server/GameServer/GameServer/bin/Debug/Data",
+  "#DataTableScript" : "导出的数据表脚本所在位置",
+  "DataTableScript" : "../../Client/Assets/Scripts/TableScripts",
+  "#DataTableNameSpace" : "导出的数据表类的命名空间",
+  "DataTableNameSpace" : "MMORPG.DataTable"
+}

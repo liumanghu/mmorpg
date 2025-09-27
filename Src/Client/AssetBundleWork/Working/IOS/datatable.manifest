@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 581279605
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e05bafcd623fb250e89e92e428641d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6e05bafcd623fb250e89e92e428641d6
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DataTable/SpawnRuleDefine_Elements.bytes
+- Assets/DataTable/NpcDefine_NPC.bytes
+- Assets/DataTable/LevelUpDefine_Elements.bytes
+- Assets/DataTable/StoryDefine_Elements.bytes
+- Assets/DataTable/EquipDefine_NPC.bytes
+- Assets/DataTable/BuffDefine_Buffs.bytes
+- Assets/DataTable/ItemDefine_NPC.bytes
+- Assets/DataTable/TeleporterDefine_Elements.bytes
+- Assets/DataTable/SkillDefine_Skills.bytes
+- Assets/DataTable/PlayerLevelUpDefine_Elements.bytes
+- Assets/DataTable/GameConfig_Config.bytes
+- Assets/DataTable/RideDefine_NPC.bytes
+- Assets/DataTable/MapDefine_Elements.bytes
+- Assets/DataTable/CharacterDefine_Elements.bytes
+- Assets/DataTable/ShopDefine_Shop.bytes
+- Assets/DataTable/ShopItemDefine_ShopItems.bytes
+- Assets/DataTable/QuestDefine_Quest.bytes
+Dependencies: []

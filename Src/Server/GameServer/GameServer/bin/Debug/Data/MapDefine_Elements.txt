@@ -1,0 +1,46 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "布林镇",
+    "Type": "Normal",
+    "SubType": "Normal",
+    "PKMode": false,
+    "Resource": "MainCity",
+    "MiniMap": "buluzheng",
+    "Music": "bgm-town",
+    "Description": ""
+  },
+  "2": {
+    "Id": 2,
+    "Name": "落日森林北",
+    "Type": "Normal",
+    "SubType": "Normal",
+    "PKMode": false,
+    "Resource": "Map01",
+    "MiniMap": "luorisenl",
+    "Music": "bgm-map01",
+    "Description": ""
+  },
+  "3": {
+    "Id": 3,
+    "Name": "落日森林南",
+    "Type": "Normal",
+    "SubType": "Normal",
+    "PKMode": false,
+    "Resource": "Map02",
+    "MiniMap": "luorisenl",
+    "Music": "bgm-map02",
+    "Description": ""
+  },
+  "4": {
+    "Id": 4,
+    "Name": "落日空间",
+    "Type": "Story",
+    "SubType": "Normal",
+    "PKMode": false,
+    "Resource": "Map03",
+    "MiniMap": "luoriyuhui",
+    "Music": "bgm-map03",
+    "Description": ""
+  }
+}

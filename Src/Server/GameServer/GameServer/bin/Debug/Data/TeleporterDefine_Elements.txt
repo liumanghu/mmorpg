@@ -1,0 +1,79 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "主城->野外",
+    "LinkTo": 6,
+    "MapID": 1,
+    "Description": ""
+  },
+  "2": {
+    "Id": 2,
+    "Name": "主城->副本",
+    "LinkTo": 8,
+    "MapID": 1,
+    "Description": ""
+  },
+  "3": {
+    "Id": 3,
+    "Name": "主城传入点1",
+    "LinkTo": 0,
+    "MapID": 1,
+    "Description": ""
+  },
+  "4": {
+    "Id": 4,
+    "Name": "出城传入点2",
+    "LinkTo": 0,
+    "MapID": 1,
+    "Description": ""
+  },
+  "5": {
+    "Id": 5,
+    "Name": "野外->主城",
+    "LinkTo": 3,
+    "MapID": 2,
+    "Description": ""
+  },
+  "6": {
+    "Id": 6,
+    "Name": "野外传入点",
+    "LinkTo": 0,
+    "MapID": 2,
+    "Description": ""
+  },
+  "7": {
+    "Id": 7,
+    "Name": "副本->主城",
+    "LinkTo": 4,
+    "MapID": 3,
+    "Description": ""
+  },
+  "8": {
+    "Id": 8,
+    "Name": "副本传入点",
+    "LinkTo": 0,
+    "MapID": 3,
+    "Description": ""
+  },
+  "9": {
+    "Id": 9,
+    "Name": "竞技场复活点A",
+    "LinkTo": 0,
+    "MapID": 5,
+    "Description": ""
+  },
+  "10": {
+    "Id": 10,
+    "Name": "竞技场复活点B",
+    "LinkTo": 0,
+    "MapID": 5,
+    "Description": ""
+  },
+  "11": {
+    "Id": 11,
+    "Name": "副本传入点",
+    "LinkTo": 0,
+    "MapID": 4,
+    "Description": ""
+  }
+}

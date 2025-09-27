@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <ResourceCollection>
+    <Resources>
+      <Resource Name="datatable" LoadType="0" Packed="True" />
+    </Resources>
+    <Assets>
+      <Asset Guid="1da745308807747858da3df6ebde4fa4" ResourceName="datatable" />
+      <Asset Guid="33254ce99bd774e0b85870e51c753575" ResourceName="datatable" />
+      <Asset Guid="3cf5cc34cb69f47c9bdc68f3cefeedb2" ResourceName="datatable" />
+      <Asset Guid="419330d19e3124f789109124f461e6a1" ResourceName="datatable" />
+      <Asset Guid="6c0205652e4d144c29d3f040e3b87014" ResourceName="datatable" />
+      <Asset Guid="79823e9f461ed4c97ac86cdea741d137" ResourceName="datatable" />
+      <Asset Guid="798dc0072582c43b59f9f94d64b70828" ResourceName="datatable" />
+      <Asset Guid="7e5fc7043c45b4c018daca1109e4a305" ResourceName="datatable" />
+      <Asset Guid="8a7b02c6fb99c4be5af1bee17281cb18" ResourceName="datatable" />
+      <Asset Guid="92614acadf1244ee4ba13c5d44ec2aba" ResourceName="datatable" />
+      <Asset Guid="952f7f7df777541c9a35237711258cd9" ResourceName="datatable" />
+      <Asset Guid="9b31e79a48a684b5f8cb283f59ec4ccc" ResourceName="datatable" />
+      <Asset Guid="9f5de7c048e3c45c682cb2623a877b8f" ResourceName="datatable" />
+      <Asset Guid="a2a48dad55346449eaee021e0402e58f" ResourceName="datatable" />
+      <Asset Guid="b26aeb185c98841f4b6db0aad698e182" ResourceName="datatable" />
+      <Asset Guid="d4fe3fac16c974d97b2b442ec2e6ecf9" ResourceName="datatable" />
+      <Asset Guid="fb04c1b4734d04d8b971d032c674ef9f" ResourceName="datatable" />
+    </Assets>
+  </ResourceCollection>
+</UnityGameFramework>

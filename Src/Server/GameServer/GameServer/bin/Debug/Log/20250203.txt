@@ -1,0 +1,21 @@
+
+2025-02-03 22:26:52,234 [1] [INFO ] [GameServer] ：Game Server Init
+2025-02-03 22:26:53,210 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2025-02-03 22:26:53,589 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:1 ：布林镇
+2025-02-03 22:26:53,592 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:2 ：落日森林入口
+2025-02-03 22:26:53,592 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:3 ：落日森林深处
+2025-02-03 22:26:53,592 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:4 ：时空裂缝
+2025-02-03 22:26:53,592 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:1 ：布林镇
+2025-02-03 22:26:53,593 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:2 ：落日森林入口
+2025-02-03 22:26:53,593 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:3 ：落日森林深处
+2025-02-03 22:26:53,608 [1] [INFO ] [GameServer] ：MapManager,Init -> Map:4 ：时空裂缝
+2025-02-03 22:26:53,609 [1] [WARN ] [GameServer] ：Starting Listener...
+2025-02-03 22:26:53,618 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-03 22:26:53,618 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-03 22:26:53,619 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-03 22:26:53,620 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-03 22:26:54,627 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-03 22:26:55,620 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-03 22:26:56,129 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-03 22:26:57,131 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2025-02-03 22:26:57,177 [1] [WARN ] [GameServer] ：NetService Started

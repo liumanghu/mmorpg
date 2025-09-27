@@ -1,0 +1,28 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+#
+
+*/Client/Library
+*/Client/Temp
+*/Client/obj
+*/Client/builds
+*/Client/[Ll]ogs
+*/Client/[Mm]emoryCaptures
+*/Client/UserSettings
+*/Client/Packages
+
+*/Client/.idea
+*/Client/.vs
+*/Client/.gradle
+
+*.sln
+*.csproj
+*.userprefs
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
