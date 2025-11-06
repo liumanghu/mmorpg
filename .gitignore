@@ -14,6 +14,8 @@
 
 # 忽略 HybridCLRData 不忽略子文件夹中build_libil2cpp.command
 */Client/HybridCLRData/*
+*/Client/Assets/HybridCLRGenerate/*
+*/Client/Assets/HybridCLRGenerate.meta
 
 */Client/.idea
 */Client/.vs

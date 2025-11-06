@@ -6,7 +6,7 @@ namespace Hotfix
     {
         public static void Run()
         {
-            Debug.Log("Hello. HybridCLR");
+            Debug.Log("Hello. World");
         }
     }
 }
