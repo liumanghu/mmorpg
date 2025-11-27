@@ -10,7 +10,9 @@
 */Client/[Ll]ogs
 */Client/[Mm]emoryCaptures
 */Client/UserSettings
-*/Client/Packages
+*/Client/Packages/*
+!*/Client/Packages/manifest.json
+!*/Client/Packages/packages-lock.json
 
 # 忽略 HybridCLRData 不忽略子文件夹中build_libil2cpp.command
 */Client/HybridCLRData/*
