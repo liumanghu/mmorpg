@@ -18,8 +18,8 @@ namespace MMORPG
             Assembly hotfixAssembly = System.AppDomain.CurrentDomain.GetAssemblies().First(a => a.GetName().Name == "Hotfix");
 #endif
 
-            Type type = hotfixAssembly.GetType("Hotfix.Hello");
-            type.GetMethod("Run")?.Invoke(null, null);
+            // Type type = hotfixAssembly.GetType("Hotfix.Hello");
+            // type.GetMethod("Run")?.Invoke(null, null);
         }
     }
 }
